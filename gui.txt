@@ -3,6 +3,3 @@
 33333
 555cong
 gui
-
-shabi
-ss
